@@ -75,8 +75,6 @@ Desenvolver uma aplicação frontend para gerenciar um sistema de gerenciamento 
 
 - Com base nas telas propostas no Figma abaixo, modele o banco de dados utilizando a ferramenta que preferir.
 - Lembre de adicionar ao seu repositório o link ou imagem da modelagem.
-- Apesar de não ser necessário implementar, modelar imaginando o uso total da plataforma, com usuários e ingressos.
-- Indique na modelagem a divisão das tabelas em seus respectivos microsserviços. (Não implementar)
   
 [Figma](https://www.figma.com/file/ztqsEQWF8BXskx8UerVztk/OnEntree---Desafio-Fullstack?type=design&node-id=13%3A156&mode=design&t=2b29VVsfWoTXCOsS-1)
 
